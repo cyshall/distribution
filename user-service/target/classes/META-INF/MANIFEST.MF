@@ -1,0 +1,21 @@
+Manifest-Version: 1.0
+Class-Path: lib/user-facade-0.0.1-SNAPSHOT.jar lib/spring-context-4.3.
+ 4.RELEASE.jar lib/spring-aop-4.3.4.RELEASE.jar lib/spring-aspects-4.3
+ .4.RELEASE.jar lib/aspectjweaver-1.8.9.jar lib/spring-beans-4.3.4.REL
+ EASE.jar lib/spring-context-support-4.3.4.RELEASE.jar lib/spring-core
+ -4.3.4.RELEASE.jar lib/commons-logging-1.2.jar lib/spring-dao-2.0.8.j
+ ar lib/aopalliance-1.0.jar lib/spring-expression-4.3.4.RELEASE.jar li
+ b/spring-jdbc-4.3.4.RELEASE.jar lib/spring-mock-2.0.8.jar lib/junit-3
+ .8.1.jar lib/spring-orm-4.3.4.RELEASE.jar lib/spring-test-4.3.4.RELEA
+ SE.jar lib/spring-tx-4.3.4.RELEASE.jar lib/spring-web-4.3.4.RELEASE.j
+ ar lib/spring-webmvc-4.3.4.RELEASE.jar lib/dubbo-2.4.10.jar lib/javas
+ sist-3.15.0-GA.jar lib/netty-3.2.5.Final.jar lib/zkclient-0.1.jar lib
+ /zookeeper-3.3.3.jar lib/jline-0.9.94.jar lib/jedis-2.9.0.jar lib/com
+ mons-pool2-2.4.2.jar lib/mysql-connector-java-5.1.34.jar lib/mybatis-
+ 3.3.1.jar lib/mybatis-spring-1.2.0.jar lib/c3p0-0.9.1.2.jar lib/log4j
+ -1.2.17.jar lib/slf4j-api-1.7.25.jar .
+Build-Jdk: 1.7.0_60
+Built-By: Administrator
+Created-By: Maven Integration for Eclipse
+Main-Class: com.qqShopping.user.starter.starterMain
+
